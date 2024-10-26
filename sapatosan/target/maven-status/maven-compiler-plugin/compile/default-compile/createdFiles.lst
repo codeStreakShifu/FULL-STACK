@@ -1,0 +1,12 @@
+com\backend\sapatosan\repository\UserInfoRepository.class
+com\backend\sapatosan\controller\UserInfoController.class
+com\backend\sapatosan\util\JwtUtil.class
+com\backend\sapatosan\config\SecurityConfig.class
+com\backend\sapatosan\service\AuthService.class
+com\backend\sapatosan\model\AuthRequest.class
+com\backend\sapatosan\service\UserInfoService.class
+com\backend\sapatosan\model\AuthResponse.class
+com\backend\sapatosan\service\CustomUserDetailsService.class
+com\backend\sapatosan\entity\UserInfo.class
+com\backend\sapatosan\controller\AuthController.class
+com\backend\sapatosan\SapatosanApplication.class
